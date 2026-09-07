@@ -1,7 +1,9 @@
-name: caiomi
+name: kara.caiomi.moe
 description: 'Home-made karaoke by the caiomi.moe crew'
 license: CC-BY-SA 4.0
 oldFormatKillSwitch: true
+defaultCollections:
+  72a39c37-ab20-44e8-976b-006557ead0bd: true
 rules:
   karaFile:
     maxParents: 2

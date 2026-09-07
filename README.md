@@ -1,8 +1,10 @@
 # karaokebase-caiomi
 
-Dedicated Karaoke Mugen repository for home-made karaoke, consumed by the
-self-hosted KM Server at **kara.caiomi.moe** as a second repository alongside
-the kara.moe base.
+Dedicated Karaoke Mugen repository for home-made karaoke. It is the primary
+online repository (`Repositories[0]`) served by the self-hosted KM Server at
+**kara.caiomi.moe**, so its name matches that hostname and heavy KM apps that
+add `kara.caiomi.moe` get this repo. The kara.moe base is loaded on the same
+server as a second, local repository.
 
 ## Layout
 
@@ -10,7 +12,7 @@ the kara.moe base.
 |-----|----------|
 | `karaokes/` | `<kid>.kara.json` — KaraFileV4 metadata |
 | `lyrics/`   | `<kid>.ass` — timed subtitles |
-| `tags/`     | `<name>.<tid8>.tag.json` — tags owned by this repo (`repository: caiomi`) |
+| `tags/`     | `<name>.<tid8>.tag.json` — tags owned by this repo (`repository: kara.caiomi.moe`) |
 | `medias/`   | **git-ignored** — media files live only on the KM Server (`repos/caiomi/medias/<kid>.mp4`) and in personal backups; GitHub's 100 MB/file limit rules them out anyway |
 
 Karas here may reference tags from the kara.moe base by TID (both repos are
