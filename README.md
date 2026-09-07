@@ -21,9 +21,13 @@ loaded into one DB).
 ## Adding a kara
 
 1. Drop `<kid>.kara.json` + `<kid>.ass` here, push.
-2. Put `<kid>.<ext>` in the server's `repos/caiomi/medias/`.
-3. On the server: `git -C repos/caiomi/git pull` then `POST /api/generate`,
-   then `POST /api/hardsubs/generate`.
+2. Put `<kid>.<ext>` in the server's `app/repos/caiomi/medias/`.
+3. On the server, run the manual update script (git pull + regen DB + previews/hardsubs):
+   ```
+   ssh tower /mnt/user/appdata/kmserver/scripts/km-update-caiomi.sh
+   ```
+   The kara.moe base auto-updates on its own daily (`km-update-base.sh` cron); this
+   repo only updates when you run the command above.
 
 ## Contents
 
