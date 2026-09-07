@@ -1,0 +1,44 @@
+name: caiomi
+description: 'Home-made karaoke by the caiomi.moe crew'
+license: CC-BY-SA 4.0
+oldFormatKillSwitch: true
+rules:
+  karaFile:
+    maxParents: 2
+    maxParentDepth: 1
+    requireLatinTitle: true
+    requireLatinTitleAsDefault: true
+    requiredTagTypes:
+      - langs
+      - songtypes
+      - collections
+      - authors
+    requiredTagTypesGroup:
+      - ['singers', 'singergroups', 'series']
+  videoFile:
+    containers:
+      mandatory: true
+      allowed: [mp4, mkv, webm]
+      default: mp4
+    resolution:
+      max:
+        height: 1080
+        width: 1920
+        mandatory: true
+    codecs:
+      video:
+        allowed: [h264, hevc, vp9, av1]
+        default: h264
+      audio:
+        mandatory: true
+        allowed: [aac, vorbis, opus, mp3]
+        default: aac
+  lyrics:
+    formats: [ass, kfn, kar, kbp, txt]
+    cleanup:
+      removeGarbage: true
+      removeHeaderComments: true
+      removeUnusedStyles: false
+      removeUnusedFonts: false
+      setTitle: true
+      setOriginalTiming: true

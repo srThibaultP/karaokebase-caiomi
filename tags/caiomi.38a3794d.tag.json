@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "caiomi"
+    },
+    "name": "caiomi",
+    "repository": "caiomi",
+    "tid": "38a3794d-a971-4fce-8ae3-9a8d759fd3db",
+    "types": [
+      6
+    ]
+  }
+}

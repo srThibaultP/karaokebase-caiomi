@@ -1,0 +1,22 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "description": {
+      "eng": "Karaoke made by the caiomi.moe crew",
+      "fre": "Karaokés faits maison par la team caiomi.moe"
+    },
+    "i18n": {
+      "eng": "Caiomi",
+      "fre": "Caiomi"
+    },
+    "name": "Caiomi",
+    "repository": "caiomi",
+    "tid": "72a39c37-ab20-44e8-976b-006557ead0bd",
+    "types": [
+      16
+    ]
+  }
+}
