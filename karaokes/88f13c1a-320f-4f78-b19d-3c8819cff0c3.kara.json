@@ -1,0 +1,55 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "default": true,
+      "duration": 218,
+      "filename": "88f13c1a-320f-4f78-b19d-3c8819cff0c3.mp4",
+      "filesize": 90198357,
+      "loudnorm": "-8.71,1.93,2.70,-18.82,-0.69",
+      "lyrics": [
+        {
+          "default": true,
+          "filename": "88f13c1a-320f-4f78-b19d-3c8819cff0c3.ass",
+          "version": "Default"
+        }
+      ],
+      "version": "Default"
+    }
+  ],
+  "data": {
+    "comment": "Original song by Eimi Isami (Phase Connect). Karaoke timing by PrZozor.",
+    "created_at": "2026-09-09T20:45:00.000Z",
+    "ignoreHooks": false,
+    "kid": "88f13c1a-320f-4f78-b19d-3c8819cff0c3",
+    "modified_at": "2026-09-09T20:45:00.000Z",
+    "repository": "kara.caiomi.moe",
+    "songname": "ENG - Dissonance",
+    "tags": {
+      "authors": [
+        "38a3794d-a971-4fce-8ae3-9a8d759fd3db"
+      ],
+      "collections": [
+        "72a39c37-ab20-44e8-976b-006557ead0bd"
+      ],
+      "langs": [
+        "de5eda1c-5fb3-46a6-9606-d4554fc5a1d6"
+      ],
+      "singers": [
+        "00184a60-0a53-4d1f-99b6-4ff10041bbee"
+      ],
+      "songtypes": [
+        "7be1b15c-cff8-4b37-a649-5c90f3d569a9"
+      ]
+    },
+    "titles": {
+      "eng": "Dissonance"
+    },
+    "titles_default_language": "eng",
+    "year": 2023
+  },
+  "meta": {}
+}
