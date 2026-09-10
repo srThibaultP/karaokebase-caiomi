@@ -21,16 +21,16 @@
     }
   ],
   "data": {
-    "comment": "Original song by Eimi Isami (Phase Connect). Karaoke timing by PrZozor.",
+    "comment": "Original song by Eimi Isami (Phase Connect). Karaoke by Ichinyaaan (based on PrZozor's timing).",
     "created_at": "2026-09-09T20:45:00.000Z",
     "ignoreHooks": false,
     "kid": "88f13c1a-320f-4f78-b19d-3c8819cff0c3",
-    "modified_at": "2026-09-09T20:45:00.000Z",
+    "modified_at": "2026-09-11T21:30:00.000Z",
     "repository": "kara.caiomi.moe",
     "songname": "ENG - Dissonance",
     "tags": {
       "authors": [
-        "38a3794d-a971-4fce-8ae3-9a8d759fd3db"
+        "51cac1d7-26d7-48b2-86fd-adf665509948"
       ],
       "collections": [
         "72a39c37-ab20-44e8-976b-006557ead0bd"

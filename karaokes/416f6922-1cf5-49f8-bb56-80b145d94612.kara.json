@@ -21,16 +21,16 @@
     }
   ],
   "data": {
-    "comment": "Cover by Otonose Kanade (hololive DEV_IS ReGLOSS), 2024. Original: Kanade by Sukima Switch (2004). Karaoke timing by Zeflipsplash.",
+    "comment": "Cover by Otonose Kanade (hololive DEV_IS ReGLOSS), 2024. Original: Kanade by Sukima Switch (2004). Karaoke by PrZozor (based on Zeflipsplash's timing).",
     "created_at": "2026-09-10T21:00:00.000Z",
     "ignoreHooks": false,
     "kid": "416f6922-1cf5-49f8-bb56-80b145d94612",
-    "modified_at": "2026-09-10T21:00:00.000Z",
+    "modified_at": "2026-09-11T21:30:00.000Z",
     "repository": "kara.caiomi.moe",
     "songname": "JPN - Kanade (Otonose Kanade cover)",
     "tags": {
       "authors": [
-        "38a3794d-a971-4fce-8ae3-9a8d759fd3db"
+        "8232402b-72f5-48f5-a813-b2a91e5c09b0"
       ],
       "collections": [
         "72a39c37-ab20-44e8-976b-006557ead0bd"
