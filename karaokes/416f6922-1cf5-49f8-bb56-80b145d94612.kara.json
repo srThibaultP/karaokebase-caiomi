@@ -1,0 +1,60 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "default": true,
+      "duration": 333,
+      "filename": "416f6922-1cf5-49f8-bb56-80b145d94612.mp4",
+      "filesize": 95513765,
+      "loudnorm": "-9.96,0.80,9.80,-20.23,-1.84",
+      "lyrics": [
+        {
+          "default": true,
+          "filename": "416f6922-1cf5-49f8-bb56-80b145d94612.ass",
+          "version": "Default"
+        }
+      ],
+      "version": "Default"
+    }
+  ],
+  "data": {
+    "comment": "Cover by Otonose Kanade (hololive DEV_IS ReGLOSS), 2024. Original: Kanade by Sukima Switch (2004). Karaoke timing by Zeflipsplash.",
+    "created_at": "2026-09-10T21:00:00.000Z",
+    "ignoreHooks": false,
+    "kid": "416f6922-1cf5-49f8-bb56-80b145d94612",
+    "modified_at": "2026-09-10T21:00:00.000Z",
+    "repository": "kara.caiomi.moe",
+    "songname": "JPN - Kanade (Otonose Kanade cover)",
+    "tags": {
+      "authors": [
+        "38a3794d-a971-4fce-8ae3-9a8d759fd3db"
+      ],
+      "collections": [
+        "72a39c37-ab20-44e8-976b-006557ead0bd"
+      ],
+      "langs": [
+        "4dcf9614-7914-42aa-99f4-dbce2e059133"
+      ],
+      "singers": [
+        "68a1e1c7-9cbd-46de-a611-23d9d3bbe544",
+        "f7ded385-391a-4544-9870-affd94f097f9"
+      ],
+      "songtypes": [
+        "7be1b15c-cff8-4b37-a649-5c90f3d569a9"
+      ],
+      "versions": [
+        "03e1e1d2-8641-47b7-bbcb-39a3df9ff21c"
+      ]
+    },
+    "titles": {
+      "jpn": "奏",
+      "qro": "Kanade"
+    },
+    "titles_default_language": "qro",
+    "year": 2024
+  },
+  "meta": {}
+}
