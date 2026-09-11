@@ -25,7 +25,7 @@
     "created_at": "2026-09-11T22:15:00.000Z",
     "ignoreHooks": false,
     "kid": "26629c11-61d0-4b08-af9e-caec976561ae",
-    "modified_at": "2026-09-11T22:15:00.000Z",
+    "modified_at": "2026-09-11T23:16:15.000Z",
     "repository": "kara.caiomi.moe",
     "songname": "ENG - Not Cute Anymore (Eimi Isami cover)",
     "tags": {
@@ -40,9 +40,6 @@
       ],
       "singers": [
         "00184a60-0a53-4d1f-99b6-4ff10041bbee"
-      ],
-      "singergroups": [
-        "f082d33f-3d4a-4e2c-9a61-2fc2a5173880"
       ],
       "songtypes": [
         "7be1b15c-cff8-4b37-a649-5c90f3d569a9"
@@ -59,3 +56,4 @@
   },
   "meta": {}
 }
+
