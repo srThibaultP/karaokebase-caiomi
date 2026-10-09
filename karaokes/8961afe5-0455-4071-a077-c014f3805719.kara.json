@@ -1,0 +1,66 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "default": true,
+      "duration": 69,
+      "filename": "8961afe5-0455-4071-a077-c014f3805719.mp4",
+      "filesize": 70513974,
+      "loudnorm": "-10.23,1.92,5.20,-20.42,-0.31",
+      "lyrics": [
+        {
+          "default": true,
+          "filename": "8961afe5-0455-4071-a077-c014f3805719.ass",
+          "version": "Default"
+        }
+      ],
+      "version": "Default"
+    }
+  ],
+  "data": {
+    "comment": "(pour le fun)",
+    "created_at": "2026-10-09T06:03:36.235Z",
+    "from_display_type": "singers",
+    "ignoreHooks": false,
+    "kid": "8961afe5-0455-4071-a077-c014f3805719",
+    "modified_at": "2026-10-09T06:07:48.493Z",
+    "repository": "kara.caiomi.moe",
+    "songname": "FRE - Drismer,PCN - MV - Freestyle Bintou",
+    "tags": {
+      "authors": [
+        "1b551920-b7a6-4ea5-b6db-f358849cacc6"
+      ],
+      "collections": [
+        "72a39c37-ab20-44e8-976b-006557ead0bd"
+      ],
+      "families": [
+        "5391f9fe-638c-415f-8dc9-958e3a2c5787"
+      ],
+      "groups": [
+        "8e209ae4-4381-438f-89dc-1b21752027d2",
+        "56f41a2e-80fb-4bbe-9df0-420ee4c8997a"
+      ],
+      "langs": [
+        "fd8072b7-4d9b-45d4-8f5b-a931a830edef"
+      ],
+      "misc": [
+        "cef35a27-3bf0-48c9-beb2-d245ba62ea6b"
+      ],
+      "singers": [
+        "ae2fcbd0-95cb-4187-b021-d7ba93622e9c",
+        "005a22e8-1365-4f66-8d79-d1a4cde8c5b0"
+      ],
+      "songtypes": [
+        "7be1b15c-cff8-4b37-a649-5c90f3d569a9"
+      ]
+    },
+    "titles": {
+      "fre": "Freestyle Bintou"
+    },
+    "titles_default_language": "fre",
+    "year": 2022
+  }
+}

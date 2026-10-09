@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PCN"
+    },
+    "name": "PCN",
+    "repository": "kara.caiomi.moe",
+    "tid": "005a22e8-1365-4f66-8d79-d1a4cde8c5b0",
+    "types": [
+      2
+    ]
+  }
+}

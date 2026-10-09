@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Drismer"
+    },
+    "name": "Drismer",
+    "repository": "kara.caiomi.moe",
+    "tid": "ae2fcbd0-95cb-4187-b021-d7ba93622e9c",
+    "types": [
+      2
+    ]
+  }
+}
